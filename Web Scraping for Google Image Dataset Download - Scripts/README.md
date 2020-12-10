@@ -1,4 +1,4 @@
-# WebScraping with and without proxy
+# WebScraping with and without proxy to collect Google Image Datasets in Bulk
 
 **Web Scraping File Names:**
 
